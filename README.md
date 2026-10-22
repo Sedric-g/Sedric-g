@@ -19,7 +19,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### EN · About me
+### 🇬🇧 About me
 
 Bilingual IT professional with **4+ years** of experience in infrastructure, telecommunications and IoT, in Canada and abroad.
 
@@ -31,7 +31,7 @@ I keep systems **available, secure and well documented**: from Active Directory 
 </td>
 <td width="50%" valign="top">
 
-### FR · À propos
+### 🇫🇷 À propos de moi
 
 Professionnel de l'informatique bilingue avec **plus de 4 ans** d'expérience en infrastructures, télécommunications et IoT, au Canada et à l'international.
 
