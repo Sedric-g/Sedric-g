@@ -50,10 +50,16 @@ Je garde les systèmes **disponibles, sécurisés et bien documentés** : de l'A
 
 <table>
 <tr>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/-CCNP-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="CCNP" /><br /><sub><b>Cisco Certified<br />Network Professional</b></sub></td>
 <td align="center" width="25%"><img src="https://img.shields.io/badge/-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="CCNA" /><br /><sub><b>Cisco Certified<br />Network Associate</b></sub></td>
-<td align="center" width="25%"><img src="https://img.shields.io/badge/-ACNA-FF8300?style=flat-square" alt="ACNA" /><br /><sub><b>Aruba Certified<br />Network Associate</b></sub></td>
-<td align="center" width="25%"><img src="https://img.shields.io/badge/-NSE_1·2·3-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="Fortinet NSE" /><br /><sub><b>Fortinet Network<br />Security Expert</b></sub></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/-AZ--104-0078D4?style=flat-square" alt="AZ-104" /><br /><sub><b>Microsoft Azure<br />Administrator Associate</b></sub></td>
 <td align="center" width="25%"><img src="https://img.shields.io/badge/-AZ--900-0078D4?style=flat-square" alt="AZ-900" /><br /><sub><b>Microsoft Azure<br />Fundamentals</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/-ACA_·_ACSA_·_ACSP-FF8300?style=flat-square" alt="Aruba ACA ACSA ACSP" /><br /><sub><b>Aruba Certified<br />Associate · Switching Pro</b></sub></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/-NSE_1·2·3-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="Fortinet NSE 1-3" /><br /><sub><b>Fortinet<br />NSE 1 · 2 · 3</b></sub></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/-Extreme_Switching-7B2D8E?style=flat-square" alt="Extreme Networks" /><br /><sub><b>Extreme Networks<br />Switching</b></sub></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/-CompTIA_A%2B-C8202F?style=flat-square" alt="CompTIA A+" /><br /><sub><b>CompTIA<br />A+</b></sub></td>
 </tr>
 </table>
 
