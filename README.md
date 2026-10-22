@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://sgbtech.ca"><img src="https://img.shields.io/badge/Site_web-sgbtech.ca-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site web sgbtech.ca" /></a>
   <a href="https://www.linkedin.com/in/VOTRE-PROFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
@@ -18,6 +19,7 @@ Bilingual IT professional with **4+ years of experience** in IT infrastructure, 
 - 🌐 Secure enterprise networks: Cisco, Aruba, Fortinet, Wi-Fi
 - 📈 Infrastructure monitoring with Zabbix, incident triage and escalation (ITIL)
 - 🌱 Currently learning: **Linux, Bash scripting and Grafana**
+- 🏢 Founder of **[SGB Tech Solutions](https://sgbtech.ca)**
 - 🎯 Looking for: **system administration, network and monitoring** roles
 
 ## 🇫🇷 À propos de moi
@@ -28,6 +30,7 @@ Professionnel de l'informatique bilingue avec **plus de 4 ans d'expérience** en
 - 🌐 Réseaux d'entreprise sécurisés : Cisco, Aruba, Fortinet, Wi-Fi
 - 📈 Supervision d'infrastructures avec Zabbix, triage et escalade d'incidents (ITIL)
 - 🌱 J'apprends en ce moment : **Linux, scripts Bash et Grafana**
+- 🏢 Fondateur de **[SGB Tech Solutions](https://sgbtech.ca)**
 - 🎯 Je recherche : des postes en **administration système, réseaux et supervision**
 
 ---
@@ -66,7 +69,8 @@ Professionnel de l'informatique bilingue avec **plus de 4 ans d'expérience** en
 
 | Projet · Project | Description |
 |---|---|
-| [**PageFlotante**](https://github.com/Sedric-g/PageFlotante) | Application mobile Xamarin.Forms (C#) avec menu latéral · *Xamarin.Forms (C#) mobile app with a flyout menu* |
+| [**SGB Tech Solutions**](https://sgbtech.ca) | Mon entreprise et site web · *My company and website* |
+| **PageFlotante** | Application mobile Xamarin.Forms (C#) avec menu latéral · *Xamarin.Forms (C#) mobile app with a flyout menu* |
 
 ---
 
