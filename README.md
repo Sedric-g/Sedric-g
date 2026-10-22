@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://sgbtech.ca"><img src="https://img.shields.io/badge/Site_web-sgbtech.ca-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site web sgbtech.ca" /></a>
-  <a href="https://www.linkedin.com/in/VOTRE-PROFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/sedric-g"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
